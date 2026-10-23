@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: ea09ef6f970670244b2d110895ad803b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3410006410429180816
+    second: PowerUpDisparoDoble.png_0
+  - first:
+      213: 9150448087090743576
+    second: PowerUpDisparoDoble.png_1
+  - first:
+      213: 4819128804240361933
+    second: PowerUpDisparoDoble.png_2
+  - first:
+      213: 6185350877884465636
+    second: PowerUpDisparoDoble.png_3
+  - first:
+      213: 7975249571601369943
+    second: PowerUpDisparoDoble.png_4
+  - first:
+      213: -4783315185419282669
+    second: PowerUpDisparoDoble.png_5
+  - first:
+      213: 2731942120805899933
+    second: PowerUpDisparoDoble.png_6
+  - first:
+      213: -9001034194093050015
+    second: PowerUpDisparoDoble.png_7
+  - first:
+      213: -7835307024331767700
+    second: PowerUpDisparoDoble.png_8
+  - first:
+      213: 2263445308811654756
+    second: PowerUpDisparoDoble.png_9
+  - first:
+      213: -3741401175742022846
+    second: PowerUpDisparoDoble.png_10
+  - first:
+      213: -8194652129016320770
+    second: PowerUpDisparoDoble.png_11
+  - first:
+      213: -8615272055286998073
+    second: PowerUpDisparoDoble.png_12
+  - first:
+      213: 2504370922922790327
+    second: PowerUpDisparoDoble.png_13
+  - first:
+      213: 2964566036425147970
+    second: PowerUpDisparoDoble.png_14
+  - first:
+      213: 6627123803002799938
+    second: PowerUpDisparoDoble.png_15
+  - first:
+      213: -7427265627257559572
+    second: PowerUpDisparoDoble.png_16
+  - first:
+      213: 5463128685786749070
+    second: PowerUpDisparoDoble.png_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PowerUpDisparoDoble.png_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 1217
+        height: 1185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07450989c393da0d0800000000000000
+      internalID: -3410006410429180816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUpDisparoDoble.png_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 941
+        width: 264
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81942b6dd0cecfe70800000000000000
+      internalID: 9150448087090743576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUpDisparoDoble.png_2
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 999
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc989975d1cf0e240800000000000000
+      internalID: 4819128804240361933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUpDisparoDoble.png_3
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 974
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1447f1ad7c6d550800000000000000
+      internalID: 6185350877884465636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUpDisparoDoble.png_4
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 994
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75bc26e0b37cdae60800000000000000
+      internalID: 7975249571601369943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUpDisparoDoble.png_5
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 987
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3171a549e204e9db0800000000000000
+      internalID: -4783315185419282669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUpDisparoDoble.png_6
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 675
+        width: 188
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e109962eec9e520800000000000000
+      internalID: 2731942120805899933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUpDisparoDoble.png_7
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 918
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16770f90717e51380800000000000000
+      internalID: -9001034194093050015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUpDisparoDoble.png_8
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 844
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60059c46c5634390800000000000000
+      internalID: -7835307024331767700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUpDisparoDoble.png_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 260
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4663e30248f596f10800000000000000
+      internalID: 2263445308811654756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUpDisparoDoble.png_10
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 772
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24bfaa5147fd31cc0800000000000000
+      internalID: -3741401175742022846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUpDisparoDoble.png_11
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 677
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc65184e4fb64e80800000000000000
+      internalID: -8194652129016320770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUpDisparoDoble.png_12
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 520
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cbd44d16b7607880800000000000000
+      internalID: -8615272055286998073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUpDisparoDoble.png_13
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 504
+        width: 76
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd41aee51051c220800000000000000
+      internalID: 2504370922922790327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUpDisparoDoble.png_14
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 426
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2460f4a6a11442920800000000000000
+      internalID: 2964566036425147970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUpDisparoDoble.png_15
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 345
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2478480acf548fb50800000000000000
+      internalID: 6627123803002799938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUpDisparoDoble.png_16
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 232
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce528da634d0de890800000000000000
+      internalID: -7427265627257559572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUpDisparoDoble.png_17
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 62
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88d096489ee0db40800000000000000
+      internalID: 5463128685786749070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PowerUpDisparoDoble.png_0: -3410006410429180816
+      PowerUpDisparoDoble.png_1: 9150448087090743576
+      PowerUpDisparoDoble.png_10: -3741401175742022846
+      PowerUpDisparoDoble.png_11: -8194652129016320770
+      PowerUpDisparoDoble.png_12: -8615272055286998073
+      PowerUpDisparoDoble.png_13: 2504370922922790327
+      PowerUpDisparoDoble.png_14: 2964566036425147970
+      PowerUpDisparoDoble.png_15: 6627123803002799938
+      PowerUpDisparoDoble.png_16: -7427265627257559572
+      PowerUpDisparoDoble.png_17: 5463128685786749070
+      PowerUpDisparoDoble.png_2: 4819128804240361933
+      PowerUpDisparoDoble.png_3: 6185350877884465636
+      PowerUpDisparoDoble.png_4: 7975249571601369943
+      PowerUpDisparoDoble.png_5: -4783315185419282669
+      PowerUpDisparoDoble.png_6: 2731942120805899933
+      PowerUpDisparoDoble.png_7: -9001034194093050015
+      PowerUpDisparoDoble.png_8: -7835307024331767700
+      PowerUpDisparoDoble.png_9: 2263445308811654756
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

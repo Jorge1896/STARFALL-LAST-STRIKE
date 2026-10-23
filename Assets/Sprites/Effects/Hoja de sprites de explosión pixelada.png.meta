@@ -1,0 +1,1030 @@
+fileFormatVersion: 2
+guid: 0dda1113f8454fc40bba91ebc76bacd9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5888506173659234872
+    second: "Hoja de sprites de explosi\xF3n pixelada_0"
+  - first:
+      213: -4550226272351015052
+    second: "Hoja de sprites de explosi\xF3n pixelada_1"
+  - first:
+      213: -9056868466275763683
+    second: "Hoja de sprites de explosi\xF3n pixelada_2"
+  - first:
+      213: 4252689894345790219
+    second: "Hoja de sprites de explosi\xF3n pixelada_3"
+  - first:
+      213: -6862264965534124836
+    second: "Hoja de sprites de explosi\xF3n pixelada_4"
+  - first:
+      213: 1158525965475038957
+    second: "Hoja de sprites de explosi\xF3n pixelada_5"
+  - first:
+      213: -9001298516964166235
+    second: "Hoja de sprites de explosi\xF3n pixelada_6"
+  - first:
+      213: -640197736602199205
+    second: "Hoja de sprites de explosi\xF3n pixelada_7"
+  - first:
+      213: -2081590890856636622
+    second: "Hoja de sprites de explosi\xF3n pixelada_8"
+  - first:
+      213: 4041095921520802957
+    second: "Hoja de sprites de explosi\xF3n pixelada_9"
+  - first:
+      213: -4338769425229811350
+    second: "Hoja de sprites de explosi\xF3n pixelada_10"
+  - first:
+      213: 6092283813558149760
+    second: "Hoja de sprites de explosi\xF3n pixelada_11"
+  - first:
+      213: 299176508789933735
+    second: "Hoja de sprites de explosi\xF3n pixelada_12"
+  - first:
+      213: 1382510416457942486
+    second: "Hoja de sprites de explosi\xF3n pixelada_13"
+  - first:
+      213: 4627192460830951422
+    second: "Hoja de sprites de explosi\xF3n pixelada_14"
+  - first:
+      213: 6249729049755590048
+    second: "Hoja de sprites de explosi\xF3n pixelada_15"
+  - first:
+      213: -5179059278924403827
+    second: "Hoja de sprites de explosi\xF3n pixelada_16"
+  - first:
+      213: 4430724234801631695
+    second: "Hoja de sprites de explosi\xF3n pixelada_17"
+  - first:
+      213: 960425736530097951
+    second: "Hoja de sprites de explosi\xF3n pixelada_18"
+  - first:
+      213: 6134546932694972703
+    second: "Hoja de sprites de explosi\xF3n pixelada_19"
+  - first:
+      213: 8923173520984139433
+    second: "Hoja de sprites de explosi\xF3n pixelada_20"
+  - first:
+      213: 3780926477626853567
+    second: "Hoja de sprites de explosi\xF3n pixelada_21"
+  - first:
+      213: 7692154965005993611
+    second: "Hoja de sprites de explosi\xF3n pixelada_22"
+  - first:
+      213: 2663001671680323020
+    second: "Hoja de sprites de explosi\xF3n pixelada_23"
+  - first:
+      213: 2018771816414210892
+    second: "Hoja de sprites de explosi\xF3n pixelada_24"
+  - first:
+      213: -734480665694294114
+    second: "Hoja de sprites de explosi\xF3n pixelada_25"
+  - first:
+      213: 6594983591427655368
+    second: "Hoja de sprites de explosi\xF3n pixelada_26"
+  - first:
+      213: -6040608608473279404
+    second: "Hoja de sprites de explosi\xF3n pixelada_27"
+  - first:
+      213: -1726631501777075109
+    second: "Hoja de sprites de explosi\xF3n pixelada_28"
+  - first:
+      213: 5275772473262649262
+    second: "Hoja de sprites de explosi\xF3n pixelada_29"
+  - first:
+      213: -8127876682087395338
+    second: "Hoja de sprites de explosi\xF3n pixelada_30"
+  - first:
+      213: -8368299513647955323
+    second: "Hoja de sprites de explosi\xF3n pixelada_31"
+  - first:
+      213: -6151903166017432095
+    second: "Hoja de sprites de explosi\xF3n pixelada_32"
+  - first:
+      213: 8657897566812348594
+    second: "Hoja de sprites de explosi\xF3n pixelada_33"
+  - first:
+      213: 5409036202093753682
+    second: "Hoja de sprites de explosi\xF3n pixelada_34"
+  - first:
+      213: -2693578971517674329
+    second: "Hoja de sprites de explosi\xF3n pixelada_35"
+  - first:
+      213: -534743190816550483
+    second: "Hoja de sprites de explosi\xF3n pixelada_36"
+  - first:
+      213: -280196394328266092
+    second: "Hoja de sprites de explosi\xF3n pixelada_37"
+  - first:
+      213: -9133172631025373429
+    second: "Hoja de sprites de explosi\xF3n pixelada_38"
+  - first:
+      213: 2406057510424297090
+    second: "Hoja de sprites de explosi\xF3n pixelada_39"
+  - first:
+      213: -1513857666913015823
+    second: "Hoja de sprites de explosi\xF3n pixelada_40"
+  - first:
+      213: 1000227762850539118
+    second: "Hoja de sprites de explosi\xF3n pixelada_41"
+  - first:
+      213: 6081251959202600620
+    second: "Hoja de sprites de explosi\xF3n pixelada_42"
+  - first:
+      213: 7332609786384296418
+    second: "Hoja de sprites de explosi\xF3n pixelada_43"
+  - first:
+      213: -8653100433923360548
+    second: "Hoja de sprites de explosi\xF3n pixelada_44"
+  - first:
+      213: 7112470825857419755
+    second: "Hoja de sprites de explosi\xF3n pixelada_45"
+  - first:
+      213: 305684117408989810
+    second: "Hoja de sprites de explosi\xF3n pixelada_46"
+  - first:
+      213: -5725257328364761911
+    second: "Hoja de sprites de explosi\xF3n pixelada_47"
+  - first:
+      213: -6590486257501284097
+    second: "Hoja de sprites de explosi\xF3n pixelada_48"
+  - first:
+      213: 8675288657860255734
+    second: "Hoja de sprites de explosi\xF3n pixelada_49"
+  - first:
+      213: -9163702426720246069
+    second: "Hoja de sprites de explosi\xF3n pixelada_50"
+  - first:
+      213: -5445482293347530007
+    second: "Hoja de sprites de explosi\xF3n pixelada_51"
+  - first:
+      213: 3943072797330168008
+    second: "Hoja de sprites de explosi\xF3n pixelada_52"
+  - first:
+      213: 8588083454764123111
+    second: "Hoja de sprites de explosi\xF3n pixelada_53"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Hoja de sprites de explosi\xF3n pixelada_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 666
+        width: 221
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83247a29a2d28b150800000000000000
+      internalID: 5888506173659234872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de explosi\xF3n pixelada_1"
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 666
+        width: 221
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f2edc30595ad0c0800000000000000
+      internalID: -4550226272351015052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de explosi\xF3n pixelada_2"
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 666
+        width: 221
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a32328d1a8f4280800000000000000
+      internalID: -9056868466275763683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de explosi\xF3n pixelada_3"
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 666
+        width: 221
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03df5c5de6940b30800000000000000
+      internalID: 4252689894345790219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de explosi\xF3n pixelada_4"
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 666
+        width: 221
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4fab62f5654c0a0800000000000000
+      internalID: -6862264965534124836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de explosi\xF3n pixelada_5"
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 666
+        width: 221
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6c43b3a39e31010800000000000000
+      internalID: 1158525965475038957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de explosi\xF3n pixelada_6"
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 666
+        width: 221
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5b91390b6f41380800000000000000
+      internalID: -9001298516964166235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de explosi\xF3n pixelada_7"
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 666
+        width: 221
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b11dbec8f8d17f0800000000000000
+      internalID: -640197736602199205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de explosi\xF3n pixelada_8"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 445
+        width: 221
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f1dce0d14bc13e0800000000000000
+      internalID: -2081590890856636622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de explosi\xF3n pixelada_9"
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 445
+        width: 221
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8cf689745bd41830800000000000000
+      internalID: 4041095921520802957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de explosi\xF3n pixelada_10"
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 445
+        width: 221
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61f9de023899c3c0800000000000000
+      internalID: -4338769425229811350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de explosi\xF3n pixelada_11"
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 445
+        width: 221
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082eef1a9d32c8450800000000000000
+      internalID: 6092283813558149760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de explosi\xF3n pixelada_12"
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 445
+        width: 221
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6c09b1373e62400800000000000000
+      internalID: 299176508789933735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de explosi\xF3n pixelada_13"
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 445
+        width: 221
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5c04f16e9af2310800000000000000
+      internalID: 1382510416457942486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de explosi\xF3n pixelada_14"
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 445
+        width: 221
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7c137f607173040800000000000000
+      internalID: 4627192460830951422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de explosi\xF3n pixelada_15"
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 445
+        width: 221
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad1f11557f7bb650800000000000000
+      internalID: 6249729049755590048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de explosi\xF3n pixelada_16"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 221
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b250196094028b0800000000000000
+      internalID: -5179059278924403827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de explosi\xF3n pixelada_17"
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 224
+        width: 221
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc1d01177381d7d30800000000000000
+      internalID: 4430724234801631695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de explosi\xF3n pixelada_18"
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 224
+        width: 221
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17f40b6e1e145d00800000000000000
+      internalID: 960425736530097951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de explosi\xF3n pixelada_19"
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 224
+        width: 221
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19fe3ddee9422550800000000000000
+      internalID: 6134546932694972703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de explosi\xF3n pixelada_20"
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 224
+        width: 221
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a66e635a0b75db70800000000000000
+      internalID: 8923173520984139433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de explosi\xF3n pixelada_21"
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 224
+        width: 221
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb841d4699c887430800000000000000
+      internalID: 3780926477626853567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de explosi\xF3n pixelada_22"
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 224
+        width: 221
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8680769f2600ca60800000000000000
+      internalID: 7692154965005993611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de explosi\xF3n pixelada_23"
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 224
+        width: 221
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccde6c449e1e4f420800000000000000
+      internalID: 2663001671680323020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de explosi\xF3n pixelada_24"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 221
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b60f7654e140c10800000000000000
+      internalID: 2018771816414210892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de explosi\xF3n pixelada_25"
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 3
+        width: 221
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f26ead9b99ec5f0800000000000000
+      internalID: -734480665694294114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de explosi\xF3n pixelada_26"
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 3
+        width: 221
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6439a72a6168b50800000000000000
+      internalID: 6594983591427655368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de explosi\xF3n pixelada_27"
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 3
+        width: 221
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45498c0a9727b2ca0800000000000000
+      internalID: -6040608608473279404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de explosi\xF3n pixelada_28"
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 3
+        width: 221
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5404961cc5c908e0800000000000000
+      internalID: -1726631501777075109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de explosi\xF3n pixelada_29"
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 3
+        width: 221
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eafaa98bc1f473940800000000000000
+      internalID: 5275772473262649262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de explosi\xF3n pixelada_30"
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 3
+        width: 221
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff0002983bf33f80800000000000000
+      internalID: -8127876682087395338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de sprites de explosi\xF3n pixelada_31"
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 3
+        width: 221
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58280f2fde3dddb80800000000000000
+      internalID: -8368299513647955323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 73dc80304a0ee3448b37167440adc51b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":8.0,"y":4.0},"gridSpriteSize":{"x":221.0,"y":221.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      "Hoja de sprites de explosi\xF3n pixelada_0": 5888506173659234872
+      "Hoja de sprites de explosi\xF3n pixelada_1": -4550226272351015052
+      "Hoja de sprites de explosi\xF3n pixelada_10": -4338769425229811350
+      "Hoja de sprites de explosi\xF3n pixelada_11": 6092283813558149760
+      "Hoja de sprites de explosi\xF3n pixelada_12": 299176508789933735
+      "Hoja de sprites de explosi\xF3n pixelada_13": 1382510416457942486
+      "Hoja de sprites de explosi\xF3n pixelada_14": 4627192460830951422
+      "Hoja de sprites de explosi\xF3n pixelada_15": 6249729049755590048
+      "Hoja de sprites de explosi\xF3n pixelada_16": -5179059278924403827
+      "Hoja de sprites de explosi\xF3n pixelada_17": 4430724234801631695
+      "Hoja de sprites de explosi\xF3n pixelada_18": 960425736530097951
+      "Hoja de sprites de explosi\xF3n pixelada_19": 6134546932694972703
+      "Hoja de sprites de explosi\xF3n pixelada_2": -9056868466275763683
+      "Hoja de sprites de explosi\xF3n pixelada_20": 8923173520984139433
+      "Hoja de sprites de explosi\xF3n pixelada_21": 3780926477626853567
+      "Hoja de sprites de explosi\xF3n pixelada_22": 7692154965005993611
+      "Hoja de sprites de explosi\xF3n pixelada_23": 2663001671680323020
+      "Hoja de sprites de explosi\xF3n pixelada_24": 2018771816414210892
+      "Hoja de sprites de explosi\xF3n pixelada_25": -734480665694294114
+      "Hoja de sprites de explosi\xF3n pixelada_26": 6594983591427655368
+      "Hoja de sprites de explosi\xF3n pixelada_27": -6040608608473279404
+      "Hoja de sprites de explosi\xF3n pixelada_28": -1726631501777075109
+      "Hoja de sprites de explosi\xF3n pixelada_29": 5275772473262649262
+      "Hoja de sprites de explosi\xF3n pixelada_3": 4252689894345790219
+      "Hoja de sprites de explosi\xF3n pixelada_30": -8127876682087395338
+      "Hoja de sprites de explosi\xF3n pixelada_31": -8368299513647955323
+      "Hoja de sprites de explosi\xF3n pixelada_4": -6862264965534124836
+      "Hoja de sprites de explosi\xF3n pixelada_5": 1158525965475038957
+      "Hoja de sprites de explosi\xF3n pixelada_6": -9001298516964166235
+      "Hoja de sprites de explosi\xF3n pixelada_7": -640197736602199205
+      "Hoja de sprites de explosi\xF3n pixelada_8": -2081590890856636622
+      "Hoja de sprites de explosi\xF3n pixelada_9": 4041095921520802957
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
